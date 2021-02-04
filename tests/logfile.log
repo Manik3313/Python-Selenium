@@ -1,0 +1,790 @@
+2019-10-31 17:08:05,065 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:08:05,117 :INFO : test_e2e :iphone X
+2019-10-31 17:08:05,132 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:08:05,147 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:08:05,157 :INFO : test_e2e :Blackberry
+2019-10-31 17:08:05,474 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:08:11,326 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 17:10:15,117 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 17:10:16,200 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:10:16,200 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:10:24,932 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:10:24,972 :INFO : test_e2e :iphone X
+2019-10-31 17:10:24,994 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:10:25,016 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:10:25,042 :INFO : test_e2e :Blackberry
+2019-10-31 17:10:25,342 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:10:31,139 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 17:18:16,603 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 17:18:17,774 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:18:17,774 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:18:26,657 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:18:26,704 :INFO : test_e2e :iphone X
+2019-10-31 17:18:26,722 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:18:26,746 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:18:26,771 :INFO : test_e2e :Blackberry
+2019-10-31 17:18:27,121 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:18:32,947 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 17:29:38,283 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 17:29:39,456 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:29:39,456 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:29:48,118 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:29:48,168 :INFO : test_e2e :iphone X
+2019-10-31 17:29:48,187 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:29:48,211 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:29:48,239 :INFO : test_e2e :Blackberry
+2019-10-31 17:29:48,574 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:29:54,317 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 17:31:14,000 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 17:31:15,050 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:31:15,050 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 17:31:24,466 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:31:24,531 :INFO : test_e2e :iphone X
+2019-10-31 17:31:24,562 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:31:24,596 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:31:24,629 :INFO : test_e2e :Blackberry
+2019-10-31 17:31:24,991 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:31:30,681 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 17:46:48,494 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:46:48,549 :INFO : test_e2e :iphone X
+2019-10-31 17:46:48,567 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:46:48,583 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:46:48,598 :INFO : test_e2e :Blackberry
+2019-10-31 17:46:48,854 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:46:54,475 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 17:58:24,223 :INFO : test_e2e :getting all the card titles
+2019-10-31 17:58:24,300 :INFO : test_e2e :iphone X
+2019-10-31 17:58:24,348 :INFO : test_e2e :Samsung Note 8
+2019-10-31 17:58:24,381 :INFO : test_e2e :Nokia Edge
+2019-10-31 17:58:24,411 :INFO : test_e2e :Blackberry
+2019-10-31 17:58:24,768 :INFO : test_e2e :Entering country name as ind
+2019-10-31 17:58:30,448 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:03:09,266 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:03:09,317 :INFO : test_e2e :iphone X
+2019-10-31 18:03:09,339 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:03:09,371 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:03:09,395 :INFO : test_e2e :Blackberry
+2019-10-31 18:03:09,702 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:03:15,723 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:04:38,971 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:04:39,025 :INFO : test_e2e :iphone X
+2019-10-31 18:04:39,051 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:04:39,080 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:04:39,105 :INFO : test_e2e :Blackberry
+2019-10-31 18:04:39,448 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:04:45,286 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:08:02,947 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:08:02,994 :INFO : test_e2e :iphone X
+2019-10-31 18:08:03,019 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:08:03,053 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:08:03,082 :INFO : test_e2e :Blackberry
+2019-10-31 18:08:03,438 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:08:09,282 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:08:22,319 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:08:22,377 :INFO : test_e2e :iphone X
+2019-10-31 18:08:22,400 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:08:22,426 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:08:22,451 :INFO : test_e2e :Blackberry
+2019-10-31 18:08:22,797 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:08:28,573 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:21:44,032 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:21:44,078 :INFO : test_e2e :iphone X
+2019-10-31 18:21:44,097 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:21:44,123 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:21:44,148 :INFO : test_e2e :Blackberry
+2019-10-31 18:21:44,433 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:21:50,225 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:26:05,801 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:26:05,846 :INFO : test_e2e :iphone X
+2019-10-31 18:26:05,866 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:26:05,893 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:26:05,919 :INFO : test_e2e :Blackberry
+2019-10-31 18:26:06,195 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:26:11,961 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 18:28:02,729 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 18:28:04,184 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 18:28:04,184 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 18:28:13,895 :INFO : test_e2e :getting all the card titles
+2019-10-31 18:28:13,963 :INFO : test_e2e :iphone X
+2019-10-31 18:28:13,980 :INFO : test_e2e :Samsung Note 8
+2019-10-31 18:28:13,996 :INFO : test_e2e :Nokia Edge
+2019-10-31 18:28:14,012 :INFO : test_e2e :Blackberry
+2019-10-31 18:28:14,320 :INFO : test_e2e :Entering country name as ind
+2019-10-31 18:28:20,187 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:21:35,900 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:21:37,188 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:21:37,188 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:21:45,543 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:21:45,588 :INFO : test_e2e :iphone X
+2019-10-31 22:21:45,605 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:21:45,628 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:21:45,654 :INFO : test_e2e :Blackberry
+2019-10-31 22:21:45,984 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:21:51,663 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:26:34,173 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:26:35,122 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:26:35,122 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:26:44,396 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:26:44,440 :INFO : test_e2e :iphone X
+2019-10-31 22:26:44,457 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:26:44,481 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:26:44,503 :INFO : test_e2e :Blackberry
+2019-10-31 22:26:44,789 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:26:50,595 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:27:12,450 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:27:15,689 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:27:15,689 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:27:31,362 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:27:31,399 :INFO : test_e2e :iphone X
+2019-10-31 22:27:31,409 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:27:31,417 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:27:31,425 :INFO : test_e2e :Blackberry
+2019-10-31 22:27:32,233 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:27:38,139 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:28:42,481 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:28:45,883 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:28:45,883 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:29:03,033 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:29:03,072 :INFO : test_e2e :iphone X
+2019-10-31 22:29:03,088 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:29:03,101 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:29:03,114 :INFO : test_e2e :Blackberry
+2019-10-31 22:29:03,907 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:29:10,366 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:31:10,831 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:31:14,255 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:31:14,255 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:31:30,122 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:31:30,157 :INFO : test_e2e :iphone X
+2019-10-31 22:31:30,168 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:31:30,180 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:31:30,188 :INFO : test_e2e :Blackberry
+2019-10-31 22:31:30,920 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:31:37,299 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:32:55,874 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:32:56,883 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:32:56,883 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:33:06,345 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:33:06,393 :INFO : test_e2e :iphone X
+2019-10-31 22:33:06,416 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:33:06,447 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:33:06,476 :INFO : test_e2e :Blackberry
+2019-10-31 22:33:06,790 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:33:12,509 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:35:31,328 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:35:32,291 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:35:32,291 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:35:40,955 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:35:41,007 :INFO : test_e2e :iphone X
+2019-10-31 22:35:41,027 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:35:41,055 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:35:41,081 :INFO : test_e2e :Blackberry
+2019-10-31 22:35:41,410 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:35:47,254 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:40:16,604 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:40:17,650 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:40:17,650 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:40:27,085 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:40:27,145 :INFO : test_e2e :iphone X
+2019-10-31 22:40:27,168 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:40:27,201 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:40:27,238 :INFO : test_e2e :Blackberry
+2019-10-31 22:40:27,561 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:40:33,333 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:46:36,261 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:46:39,679 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:46:39,679 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:46:55,257 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:46:55,297 :INFO : test_e2e :iphone X
+2019-10-31 22:46:55,308 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:46:55,316 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:46:55,325 :INFO : test_e2e :Blackberry
+2019-10-31 22:46:56,119 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:47:02,495 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:53:20,410 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:53:21,425 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:53:21,425 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:53:30,963 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:53:31,019 :INFO : test_e2e :iphone X
+2019-10-31 22:53:31,045 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:53:31,074 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:53:31,102 :INFO : test_e2e :Blackberry
+2019-10-31 22:53:31,415 :INFO : test_e2e :Entering country name as ind
+2019-10-31 22:53:37,154 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-10-31 22:59:48,772 :INFO : test_formSubmission :first name is Rahul
+2019-10-31 22:59:49,967 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:59:49,967 :INFO : test_formSubmission :first name is Anshika
+2019-10-31 22:59:59,280 :INFO : test_e2e :getting all the card titles
+2019-10-31 22:59:59,334 :INFO : test_e2e :iphone X
+2019-10-31 22:59:59,357 :INFO : test_e2e :Samsung Note 8
+2019-10-31 22:59:59,380 :INFO : test_e2e :Nokia Edge
+2019-10-31 22:59:59,396 :INFO : test_e2e :Blackberry
+2019-10-31 22:59:59,770 :INFO : test_e2e :Entering country name as ind
+2019-10-31 23:00:05,507 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-11-01 07:54:01,989 :INFO : test_formSubmission :first name is Rahul
+2019-11-01 07:54:03,587 :INFO : test_formSubmission :first name is Anshika
+2019-11-01 07:54:03,587 :INFO : test_formSubmission :first name is Anshika
+2019-11-01 07:54:12,471 :INFO : test_e2e :getting all the card titles
+2019-11-01 07:54:12,525 :INFO : test_e2e :iphone X
+2019-11-01 07:54:12,544 :INFO : test_e2e :Samsung Note 8
+2019-11-01 07:54:12,573 :INFO : test_e2e :Nokia Edge
+2019-11-01 07:54:12,602 :INFO : test_e2e :Blackberry
+2019-11-01 07:54:12,976 :INFO : test_e2e :Entering country name as ind
+2019-11-01 07:54:18,923 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-11-01 08:00:26,008 :INFO : test_formSubmission :first name is Rahul
+2019-11-01 08:00:29,332 :INFO : test_formSubmission :first name is Anshika
+2019-11-01 08:00:29,332 :INFO : test_formSubmission :first name is Anshika
+2019-11-01 08:00:45,264 :INFO : test_e2e :getting all the card titles
+2019-11-01 08:00:45,306 :INFO : test_e2e :iphone X
+2019-11-01 08:00:45,320 :INFO : test_e2e :Samsung Note 8
+2019-11-01 08:00:45,326 :INFO : test_e2e :Nokia Edge
+2019-11-01 08:00:45,335 :INFO : test_e2e :Blackberry
+2019-11-01 08:00:46,091 :INFO : test_e2e :Entering country name as ind
+2019-11-01 08:00:52,495 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-11-01 08:09:39,434 :INFO : test_formSubmission :first name is Rahul
+2019-11-01 08:09:40,995 :INFO : test_formSubmission :first name is Anshika
+2019-11-01 08:09:40,995 :INFO : test_formSubmission :first name is Anshika
+2019-11-01 08:09:51,110 :INFO : test_e2e :getting all the card titles
+2019-11-01 08:09:51,161 :INFO : test_e2e :iphone X
+2019-11-01 08:09:51,179 :INFO : test_e2e :Samsung Note 8
+2019-11-01 08:09:51,204 :INFO : test_e2e :Nokia Edge
+2019-11-01 08:09:51,232 :INFO : test_e2e :Blackberry
+2019-11-01 08:09:51,591 :INFO : test_e2e :Entering country name as ind
+2019-11-01 08:09:57,393 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2019-11-12 08:29:34,787 :INFO : test_e2e :getting all the card titles
+2019-11-12 08:29:34,846 :INFO : test_e2e :iphone X
+2019-11-12 08:29:34,859 :INFO : test_e2e :Samsung Note 8
+2019-11-12 08:29:34,874 :INFO : test_e2e :Nokia Edge
+2019-11-12 08:29:34,893 :INFO : test_e2e :Blackberry
+2019-11-12 08:29:35,204 :INFO : test_e2e :Entering country name as ind
+2019-11-12 08:30:06,604 :INFO : test_formSubmission :first name is Rahul
+2019-11-12 08:30:30,638 :INFO : test_formSubmission :first name is Rahul
+2021-02-01 10:54:16,880 :INFO : test_e2e :getting all the card titles
+2021-02-01 10:54:24,427 :INFO : test_e2e :Entering country name as ind
+2021-02-01 10:54:24,428 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:02:21,219 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:02:28,175 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:02:28,175 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:04:07,737 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:04:10,078 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:04:10,079 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:04:24,776 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:04:26,625 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:04:26,626 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:05:28,198 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:05:30,191 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:05:30,191 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:06:19,167 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:06:25,292 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:06:25,292 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:10:45,050 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:11:51,407 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:16:05,757 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:16:26,304 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:16:44,132 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:17:23,147 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:17:25,111 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:17:25,112 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:53:05,538 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:53:10,518 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:53:10,518 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:53:10,624 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:53:10,624 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:53:13,016 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:53:13,016 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:53:13,018 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:53:13,018 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:53:13,046 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:53:13,046 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:53:13,046 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:53:13,821 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:53:13,821 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:53:13,821 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:53:13,822 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:53:13,822 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:53:13,822 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:54:47,591 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:54:53,061 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:54:53,061 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:54:53,217 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:54:53,217 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:54:54,241 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:54:54,241 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:54:54,242 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:54:54,242 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:54:54,339 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:54:54,339 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:54:54,339 :INFO : test_e2e :getting all the card titles
+2021-02-01 11:54:55,164 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:54:55,164 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:54:55,164 :INFO : test_e2e :Entering country name as ind
+2021-02-01 11:54:55,165 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:54:55,165 :INFO : test_e2e :Text received from application is 
+2021-02-01 11:54:55,165 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:01:36,191 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:02:08,032 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:02:44,570 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:04:31,069 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:05:24,498 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:06:20,929 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:09,586 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:11,228 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:07:11,229 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:07:11,284 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:11,284 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:17,277 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:07:17,277 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:07:17,279 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:07:17,279 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:07:17,339 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:17,339 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:17,339 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:07:18,261 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:07:18,261 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:07:18,261 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:07:18,262 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:07:18,262 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:07:18,262 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:48:38,380 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:48:44,167 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:48:44,168 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:48:44,435 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:48:44,435 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:48:47,615 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:48:47,615 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:48:47,616 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:48:47,616 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:48:47,832 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:48:47,832 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:48:47,832 :INFO : test_e2e :getting all the card titles
+2021-02-01 12:48:48,838 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:48:48,838 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:48:48,838 :INFO : test_e2e :Entering country name as ind
+2021-02-01 12:48:48,839 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:48:48,839 :INFO : test_e2e :Text received from application is 
+2021-02-01 12:48:48,839 :INFO : test_e2e :Text received from application is 
+2021-02-01 13:02:37,056 :INFO : test_formSubmission :first name is Manik
+2021-02-01 13:03:03,881 :INFO : test_formSubmission :first name is Manik
+2021-02-01 13:03:04,167 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:03:04,167 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:03:04,368 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:03:04,368 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:03:04,368 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:07:22,853 :INFO : test_formSubmission :first name is Manik
+2021-02-01 13:07:22,862 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:07:23,139 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:07:23,139 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:07:23,146 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:07:23,146 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:07:23,346 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:07:23,346 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:07:23,346 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:07:23,356 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:07:23,356 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:07:23,356 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:09:14,477 :INFO : test_formSubmission :first name is Manik
+2021-02-01 13:09:14,484 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:09:14,760 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:09:14,760 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:09:14,770 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:09:14,770 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:09:14,961 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:09:14,961 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:09:14,961 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:09:14,970 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:09:14,970 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:09:14,970 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:11:16,440 :INFO : test_formSubmission :first name is Manik
+2021-02-01 13:11:16,446 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:11:16,726 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:11:16,726 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 13:11:16,733 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:11:16,733 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:11:16,927 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:11:16,927 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:11:16,927 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 13:11:16,935 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:11:16,935 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 13:11:16,935 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 14:44:46,462 :INFO : test_formSubmission :first name is Manik
+2021-02-01 14:44:46,537 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 14:44:47,083 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 14:44:47,083 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 14:44:47,089 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 14:44:47,089 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 14:44:47,355 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 14:44:47,355 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 14:44:47,355 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 14:44:47,362 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 14:44:47,362 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 14:44:47,362 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:16:25,221 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:16:25,229 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:16:25,400 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:16:25,400 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:16:25,409 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:16:25,409 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:16:25,646 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:16:25,646 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:16:25,646 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:16:25,653 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:16:25,653 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:16:25,653 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:45,585 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:17:45,617 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:45,617 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:45,856 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:17:45,856 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:17:45,888 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:45,888 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:45,888 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:45,888 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:49,124 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:17:49,124 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:17:49,124 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:17:49,156 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:49,156 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:49,156 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:49,156 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:49,156 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:17:49,156 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:38,783 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:20:38,811 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:38,811 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,161 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:20:39,161 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:20:39,190 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,190 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,190 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,190 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,842 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:20:39,842 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:20:39,842 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:20:39,874 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,874 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,874 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,874 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,874 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:20:39,874 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:27,937 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:21:27,966 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:27,966 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,158 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:21:31,158 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:21:31,176 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,176 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,176 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,176 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,390 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:21:31,390 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:21:31,390 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:21:31,413 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,413 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,413 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,413 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,413 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:21:31,413 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:28:14,650 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:28:14,677 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:28:14,677 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:28:14,705 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:28:14,705 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:28:14,705 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:30:00,111 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:30:00,142 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:30:00,142 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:30:00,176 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:30:00,176 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:30:00,176 :INFO : test_e2e :getting all the card titles
+2021-02-01 15:32:20,236 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:32:20,698 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:32:20,698 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:32:21,214 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:32:21,214 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:32:21,214 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:32:43,372 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:32:43,400 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,400 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,588 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:32:43,588 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:32:43,616 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,616 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,616 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,616 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,807 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:32:43,807 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:32:43,807 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:32:43,839 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,839 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,839 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,839 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,839 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:32:43,839 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:26,571 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:33:26,596 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:26,596 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:26,926 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:33:26,926 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:33:26,954 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:26,954 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:26,954 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:26,954 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:27,252 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:33:27,252 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:33:27,252 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:33:27,280 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:27,280 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:27,280 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:27,280 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:27,280 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:33:27,280 :ERROR : getName :Unable to find name element in ProactorHomepage
+2021-02-01 15:34:22,884 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:34:25,535 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:34:25,535 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:34:25,767 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:34:25,767 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:34:25,767 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:37:37,653 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:37:37,908 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:37:37,908 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:37:38,087 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:37:38,087 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:37:38,087 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:38:31,473 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:38:31,773 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:38:31,773 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:38:32,482 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:38:32,482 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:38:32,482 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:53:15,460 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:53:15,672 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:53:15,672 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:53:15,908 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:53:15,908 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:53:15,908 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:59:51,807 :INFO : test_formSubmission :first name is Manik
+2021-02-01 15:59:52,115 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:59:52,115 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 15:59:52,318 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:59:52,318 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 15:59:52,318 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:01:09,438 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:01:20,293 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:01:20,293 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:01:30,923 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:01:30,923 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:01:30,923 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:03:17,261 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:03:27,854 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:03:27,854 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:03:38,467 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:03:38,467 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:03:38,467 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:06:04,687 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:06:25,741 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:06:25,741 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:06:46,403 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:06:46,403 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:06:46,403 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:13:36,229 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:13:57,400 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:13:57,400 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:15:22,625 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:15:23,522 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:15:23,522 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:15:24,239 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:15:24,239 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:15:24,239 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:40:52,608 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:40:56,478 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:40:56,478 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:40:56,984 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:40:56,984 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:40:56,984 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:53:49,635 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:53:51,055 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:53:51,055 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:53:52,067 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:53:52,067 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:53:52,067 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:55:31,839 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:55:32,942 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:55:32,942 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:55:37,240 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:55:37,240 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:55:37,240 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:56:46,103 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:56:47,184 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:56:47,184 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:56:48,315 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:56:48,315 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:56:48,315 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:58:31,963 :INFO : test_formSubmission :first name is Manik
+2021-02-01 16:58:36,236 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:58:36,236 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 16:58:37,163 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:58:37,163 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 16:58:37,163 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:00:25,935 :INFO : test_formSubmission :first name is Manik
+2021-02-01 17:00:29,197 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:00:29,197 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:00:30,215 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:00:30,215 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:00:30,215 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:03:26,057 :INFO : test_formSubmission :first name is Manik
+2021-02-01 17:03:27,178 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:03:27,178 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:03:28,297 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:03:28,297 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:03:28,297 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:05:36,210 :INFO : test_formSubmission :first name is Manik
+2021-02-01 17:05:57,508 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:05:57,508 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:06:18,409 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:06:18,409 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:06:18,409 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:22:10,965 :INFO : test_formSubmission :first name is Manik
+2021-02-01 17:22:14,274 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:22:14,274 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:22:14,529 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:22:14,529 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:22:14,529 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:23:16,543 :INFO : test_formSubmission :first name is Manik
+2021-02-01 17:23:16,785 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:23:16,785 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:23:17,247 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:23:17,247 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:23:17,247 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:24:16,803 :INFO : test_formSubmission :first name is Manik
+2021-02-01 17:24:38,826 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:24:38,826 :INFO : test_formSubmission :first name is Abbhik
+2021-02-01 17:24:59,455 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:24:59,455 :INFO : test_formSubmission :first name is Pushap
+2021-02-01 17:24:59,455 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:07:51,442 :INFO : test_formSubmission :first name is Manik
+2021-02-04 11:07:55,775 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:07:55,775 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:07:56,899 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:07:56,899 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:07:56,899 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:08:21,595 :INFO : test_formSubmission :first name is Manik
+2021-02-04 11:08:22,696 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:08:22,696 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:08:26,589 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:08:26,589 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:08:26,589 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:13:13,242 :INFO : test_formSubmission :first name is Manik
+2021-02-04 11:13:17,274 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:13:17,274 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:13:18,334 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:13:18,334 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:13:18,334 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:13:43,169 :INFO : test_formSubmission :first name is Manik
+2021-02-04 11:14:03,290 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:14:03,302 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:03,302 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:03,620 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:14:03,620 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:14:03,620 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:14:23,752 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:14:23,752 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:14:23,762 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:23,762 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:23,762 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:23,762 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:24,043 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:14:24,043 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:14:24,043 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:14:24,043 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:14:24,043 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:14:44,153 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:14:44,153 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:14:44,153 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:14:44,165 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:44,165 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:44,165 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:44,165 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:44,165 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:14:44,165 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:15,210 :INFO : test_formSubmission :first name is Manik
+2021-02-04 11:17:35,341 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:17:35,353 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:35,353 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:35,616 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:17:35,616 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:17:35,616 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:17:55,735 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:17:55,735 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:17:55,747 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:55,747 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:55,747 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:55,747 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:17:56,256 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:17:56,256 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:17:56,256 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:17:56,256 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:17:56,256 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:18:16,379 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:18:16,379 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:18:16,379 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:18:16,386 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:18:16,386 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:18:16,386 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:18:16,386 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:18:16,386 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:18:16,386 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:08,302 :INFO : test_formSubmission :first name is Manik
+2021-02-04 11:20:28,397 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:20:28,409 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:28,409 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:29,787 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:20:29,787 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:20:29,787 :INFO : test_formSubmission :first name is Abbhik
+2021-02-04 11:20:49,916 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:20:49,916 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:20:49,929 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:49,929 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:49,929 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:49,929 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:20:50,770 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:20:50,770 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:20:50,770 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:20:50,770 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:20:50,770 :INFO : test_formSubmission :first name is Pushap
+2021-02-04 11:21:10,878 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:21:10,878 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:21:10,878 :ERROR : getEmail :Unable to get email field in Proactor Homepage
+2021-02-04 11:21:10,891 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:21:10,891 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:21:10,891 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:21:10,891 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:21:10,891 :ERROR : test_formSubmission :Unable to run test form submission
+2021-02-04 11:21:10,891 :ERROR : test_formSubmission :Unable to run test form submission
